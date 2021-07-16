@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Emmet</title>
+		<link rel="stylesheet" href="app.css">
+	</head>
+	<body>
+		<ul class="header">
+			<li><a href="">Images</a></li>
+			<li><a href="">Videos</a></li>
+			<li><a href="">Academic</a></li>
+			<li><a href="">Dict</a></li>
+			<li><a href="">Maps</a></li>
+		</ul>
+		<div class="search">
+			<div cass="logo">Logo</div>
+			<input type="text" placeholder="keywords">
+		</div>
+		</body>
+		</html>
